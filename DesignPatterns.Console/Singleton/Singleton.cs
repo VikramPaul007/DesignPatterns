@@ -1,5 +1,12 @@
 ﻿namespace DesignPatterns.Console
 {
+
+    /*
+     * The idea of a Singleton class is that at a single point
+     * in time there can be at most one instance of the class.
+     * Additionally, the class cannot be inherited by sub classes.
+     */
+
     // Sealed class to restrict inheritance
     internal sealed class Singleton
     {
