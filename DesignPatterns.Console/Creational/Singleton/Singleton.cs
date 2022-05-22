@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Console
+﻿namespace DesignPatterns.Console.Creational
 {
 
     /*
